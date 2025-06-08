@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Инициализация Swiper
     const portfolioSwiper = new Swiper('.portfolio-slider', {
         loop: true,
         autoplay: {
